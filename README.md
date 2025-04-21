@@ -42,7 +42,7 @@ your_third_token_here
 ```
 
 To get your token:
-1. Log in to [Flow3](https://app.flow3.tech/)
+1. Log in to [Flow3](https://app.flow3.tech/sale-nodes?ref=t0RZFkAL6s)
 2. Open your browser's developer tools (F12)
 3. Go to the Network tab
 4. Refresh the page and look for any API request
